@@ -10,7 +10,6 @@ The repository consists of the following files:
 - gender_guesser_api.py - is used to detect gender from names in the dataset
 - data.csv - is a dataset after all pre-processing in a format acceptable by cornac
 - protected - is a text file consisting of book codes relating to books written by female authors
-- experiments - folder used to collect all data from the experiments and evaluation
 - experiment.py - is used to run the feedback loops simulation
 - evaluation.py - is used to evaluate all models according to the three main notions of fairness
 - comparison.py - is used to retrieve information about distributions of fairness in 1,5,10 iteration
